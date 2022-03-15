@@ -1,0 +1,7 @@
+* Implement a typechecker for the Simply Typed Lambda Calculus
+
+** Technology
+  Dealer's choice
+
+** Specification
+ - One program that would take an expression and check it's type
