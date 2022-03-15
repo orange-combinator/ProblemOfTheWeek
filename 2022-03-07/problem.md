@@ -2,10 +2,16 @@
 
 We want to represent polynomials using lists, such that the coefficients are stored from the most significant to the least significant. That is, the polynomial
 
-  2x^3 - 3x^2 + 7
+```
+2x^3 - 3x^2 + 7
+```
+
 would be represented as
 
-  [2,-3,0,7]
+```
+[2,-3,0,7]
+```
+
 Propose a data type, Poly, such that it exhibits the following behavior:
 
 (1 points) The toPoly function allows you to receive an arbitrary list of numbers and "convert" it into a Poly.
