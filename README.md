@@ -1,5 +1,11 @@
 # Orange Combinator - Problem of the Week
 
+# The Problem
+
+[Day 22 of Advent of Code 2021](https://adventofcode.com/2021/day/22)
+
+# What is this
+
 This repository holds the weekly problems for the Orange Combinator functional programming meetup. This activity serves as a learning activity for those new to FP and good practice for the seasoned veteran.
 
 Please feel free to submit a PR with a proposed solution in the language of your choosing in the appropriate folder.
