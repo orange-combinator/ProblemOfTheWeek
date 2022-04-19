@@ -1,5 +1,9 @@
 # Orange Combinator - Problem of the Week
 
+# Problem of the week is here:
+
+[ProblemOfTheWeek.md](/ProblemOfTheWeek.md)
+
 ## What is this
 
 This repository holds the weekly problems for the Orange Combinator functional programming meetup. This activity serves as a learning activity for those new to FP and good practice for the seasoned veteran.
